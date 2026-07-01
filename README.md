@@ -65,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Zeon190/leetcode-/tree/master/0125-valid-palindrome) |
+| [0520-detect-capital](https://github.com/Zeon190/leetcode-/tree/master/0520-detect-capital) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Zeon190/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
