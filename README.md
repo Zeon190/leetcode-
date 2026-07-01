@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Zeon190/leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Zeon190/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Zeon190/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Zeon190/leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Zeon190/leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Zeon190/leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zeon190/leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Zeon190/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Zeon190/leetcode-/tree/master/0238-product-of-array-except-self) |
 ## String
 |  |
 | ------- |
