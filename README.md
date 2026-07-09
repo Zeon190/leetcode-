@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Zeon190/leetcode-/tree/master/0202-happy-number) |
 | [0904-fruit-into-baskets](https://github.com/Zeon190/leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zeon190/leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Zeon190/leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Zeon190/leetcode-/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Zeon190/leetcode-/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,5 +82,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Zeon190/leetcode-/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Zeon190/leetcode-/tree/master/0202-happy-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Zeon190/leetcode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
