@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Zeon190/leetcode-/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Zeon190/leetcode-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Zeon190/leetcode-/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Zeon190/leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Zeon190/leetcode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Zeon190/leetcode-/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Zeon190/leetcode-/tree/master/0202-happy-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Zeon190/leetcode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Zeon190/leetcode-/tree/master/0055-jump-game) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Zeon190/leetcode-/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
