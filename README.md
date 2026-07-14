@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Zeon190/leetcode-/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Zeon190/leetcode-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Zeon190/leetcode-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Zeon190/leetcode-/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Zeon190/leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Zeon190/leetcode-/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Zeon190/leetcode-/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Zeon190/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Zeon190/leetcode-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Zeon190/leetcode-/tree/master/0055-jump-game) |
 ## Greedy
 |  |
