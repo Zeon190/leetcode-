@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Zeon190/leetcode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Zeon190/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Zeon190/leetcode-/tree/master/1470-shuffle-the-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Zeon190/leetcode-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/Zeon190/leetcode-/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Zeon190/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Zeon190/leetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Zeon190/leetcode-/tree/master/0202-happy-number) |
 | [0904-fruit-into-baskets](https://github.com/Zeon190/leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zeon190/leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Zeon190/leetcode-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zeon190/leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Zeon190/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zeon190/leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Zeon190/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Zeon190/leetcode-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zeon190/leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Zeon190/leetcode-/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Zeon190/leetcode-/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Zeon190/leetcode-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Zeon190/leetcode-/tree/master/0287-find-the-duplicate-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Zeon190/leetcode-/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
