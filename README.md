@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Zeon190/leetcode-/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Zeon190/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Zeon190/leetcode-/tree/master/0643-maximum-average-subarray-i) |
+| [0877-stone-game](https://github.com/Zeon190/leetcode-/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Zeon190/leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Zeon190/leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zeon190/leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Zeon190/leetcode-/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Zeon190/leetcode-/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Zeon190/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Zeon190/leetcode-/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Zeon190/leetcode-/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Zeon190/leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Zeon190/leetcode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Zeon190/leetcode-/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/Zeon190/leetcode-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Zeon190/leetcode-/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/Zeon190/leetcode-/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Zeon190/leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Zeon190/leetcode-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
