@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Zeon190/leetcode-/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Zeon190/leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Zeon190/leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Zeon190/leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zeon190/leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Zeon190/leetcode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Zeon190/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Zeon190/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Zeon190/leetcode-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Zeon190/leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Zeon190/leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Zeon190/leetcode-/tree/master/0048-rotate-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Zeon190/leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Enumeration
 |  |
 | ------- |
