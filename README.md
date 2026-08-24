@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Zeon190/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Zeon190/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Zeon190/leetcode-/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Zeon190/leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Zeon190/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Zeon190/leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Zeon190/leetcode-/tree/master/0605-can-place-flowers) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Zeon190/leetcode-/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Zeon190/leetcode-/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Zeon190/leetcode-/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/Zeon190/leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zeon190/leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Zeon190/leetcode-/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Zeon190/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Zeon190/leetcode-/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Zeon190/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zeon190/leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Zeon190/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Zeon190/leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Zeon190/leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Zeon190/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Zeon190/leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Zeon190/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Zeon190/leetcode-/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Zeon190/leetcode-/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Zeon190/leetcode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Zeon190/leetcode-/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Zeon190/leetcode-/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Zeon190/leetcode-/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Zeon190/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Zeon190/leetcode-/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Zeon190/leetcode-/tree/master/3536-maximum-product-of-two-digits) |
@@ -178,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Zeon190/leetcode-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Zeon190/leetcode-/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Zeon190/leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Zeon190/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Zeon190/leetcode-/tree/master/0338-counting-bits) |
 ## Number Theory
