@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Zeon190/leetcode-/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Zeon190/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Zeon190/leetcode-/tree/master/0877-stone-game) |
+| [1486-xor-operation-in-an-array](https://github.com/Zeon190/leetcode-/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Zeon190/leetcode-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/Zeon190/leetcode-/tree/master/3099-harshad-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Zeon190/leetcode-/tree/master/3536-maximum-product-of-two-digits) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Zeon190/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Zeon190/leetcode-/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Zeon190/leetcode-/tree/master/0476-number-complement) |
+| [1486-xor-operation-in-an-array](https://github.com/Zeon190/leetcode-/tree/master/1486-xor-operation-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
