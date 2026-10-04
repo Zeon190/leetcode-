@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Zeon190/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Zeon190/leetcode-/tree/master/1470-shuffle-the-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Zeon190/leetcode-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Zeon190/leetcode-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Zeon190/leetcode-/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Zeon190/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Zeon190/leetcode-/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Zeon190/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Zeon190/leetcode-/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/Zeon190/leetcode-/tree/master/1486-xor-operation-in-an-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Zeon190/leetcode-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Zeon190/leetcode-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3024-type-of-triangle](https://github.com/Zeon190/leetcode-/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/Zeon190/leetcode-/tree/master/3099-harshad-number) |
