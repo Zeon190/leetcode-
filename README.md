@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Zeon190/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Zeon190/leetcode-/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Zeon190/leetcode-/tree/master/0520-detect-capital) |
+| [0856-score-of-parentheses](https://github.com/Zeon190/leetcode-/tree/master/0856-score-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Zeon190/leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Zeon190/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Zeon190/leetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -252,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Zeon190/leetcode-/tree/master/3024-type-of-triangle) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Zeon190/leetcode-/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Zeon190/leetcode-/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
