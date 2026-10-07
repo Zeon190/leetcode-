@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Zeon190/leetcode-/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/Zeon190/leetcode-/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Zeon190/leetcode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2974-minimum-number-game](https://github.com/Zeon190/leetcode-/tree/master/2974-minimum-number-game) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Zeon190/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Zeon190/leetcode-/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Zeon190/leetcode-/tree/master/0520-detect-capital) |
+| [0657-robot-return-to-origin](https://github.com/Zeon190/leetcode-/tree/master/0657-robot-return-to-origin) |
 | [0856-score-of-parentheses](https://github.com/Zeon190/leetcode-/tree/master/0856-score-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Zeon190/leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Zeon190/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
