@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Zeon190/leetcode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Zeon190/leetcode-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Zeon190/leetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Zeon190/leetcode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2974-minimum-number-game](https://github.com/Zeon190/leetcode-/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Zeon190/leetcode-/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Zeon190/leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Zeon190/leetcode-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Zeon190/leetcode-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Zeon190/leetcode-/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Zeon190/leetcode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zeon190/leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Zeon190/leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Zeon190/leetcode-/tree/master/3731-find-missing-elements) |
@@ -274,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Zeon190/leetcode-/tree/master/0856-score-of-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Zeon190/leetcode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Zeon190/leetcode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
