@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Zeon190/leetcode-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Zeon190/leetcode-/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Zeon190/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Zeon190/leetcode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Zeon190/leetcode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Zeon190/leetcode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Zeon190/leetcode-/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Zeon190/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Zeon190/leetcode-/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Zeon190/leetcode-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Zeon190/leetcode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Zeon190/leetcode-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Zeon190/leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Zeon190/leetcode-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Zeon190/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Zeon190/leetcode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Zeon190/leetcode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Zeon190/leetcode-/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Zeon190/leetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
