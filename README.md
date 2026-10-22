@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Zeon190/leetcode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Zeon190/leetcode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Zeon190/leetcode-/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Zeon190/leetcode-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Zeon190/leetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Zeon190/leetcode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2974-minimum-number-game](https://github.com/Zeon190/leetcode-/tree/master/2974-minimum-number-game) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Zeon190/leetcode-/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Zeon190/leetcode-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Zeon190/leetcode-/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Zeon190/leetcode-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/Zeon190/leetcode-/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/Zeon190/leetcode-/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Zeon190/leetcode-/tree/master/3232-find-if-digit-game-can-be-won) |
