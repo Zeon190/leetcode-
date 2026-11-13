@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Zeon190/leetcode-/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Zeon190/leetcode-/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Zeon190/leetcode-/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/Zeon190/leetcode-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Zeon190/leetcode-/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Zeon190/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Zeon190/leetcode-/tree/master/0904-fruit-into-baskets) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Zeon190/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Zeon190/leetcode-/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Zeon190/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Zeon190/leetcode-/tree/master/2974-minimum-number-game) |
 ## Quickselect
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Zeon190/leetcode-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Zeon190/leetcode-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Zeon190/leetcode-/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/Zeon190/leetcode-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Zeon190/leetcode-/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Zeon190/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Zeon190/leetcode-/tree/master/0877-stone-game) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Zeon190/leetcode-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Zeon190/leetcode-/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Zeon190/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/Zeon190/leetcode-/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Zeon190/leetcode-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Zeon190/leetcode-/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Zeon190/leetcode-/tree/master/0877-stone-game) |
