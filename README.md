@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Zeon190/leetcode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2974-minimum-number-game](https://github.com/Zeon190/leetcode-/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Zeon190/leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/Zeon190/leetcode-/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Zeon190/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Zeon190/leetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zeon190/leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Zeon190/leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3174-clear-digits](https://github.com/Zeon190/leetcode-/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Zeon190/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Zeon190/leetcode-/tree/master/0856-score-of-parentheses) |
+| [3174-clear-digits](https://github.com/Zeon190/leetcode-/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
